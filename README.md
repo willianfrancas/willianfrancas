@@ -5,7 +5,9 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/willianfrancas?style=social)](https://twitter.com/willianfrancas)
 ---
 **willianfrancas** *here, learning something everyday*!
+
 I'm a System Analyst jr. at Rede, focused on front end.
+
 Developing with Angular, Typescript, Unit Tests with Jasmine, Automated Tests with Cypress.
 
 - 🌱 I’m currently learning **[AngularJS, Typescript, Python, DOCKER, CI/CD]**
@@ -15,10 +17,12 @@ Developing with Angular, Typescript, Unit Tests with Jasmine, Automated Tests wi
 Launching my own [ToDo app][myapp], **to face some challenges**.
 
 [...] I keep on constantly evolving, every day learning something new.
+
 When you get a taste for flying, you just want to go higher and further, it's the same feeling when I'm studying.
 
 I value mutual benefit.
-I try to learn and teach.
+
+Try to learn and teach.
 ---
 🧰 Toolbox
 
