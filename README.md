@@ -11,11 +11,11 @@ I'm a System Analyst jr. at [Rede][rede], focused on front end.
 Developing with Angular, Typescript, Unit Tests with Jasmine, Automated Tests with Cypress.
 
 - 🌱 I’m currently learning 
--- AngularJS
--- Typescript
--- Python
--- DOCKER
--- CI/CD
++ AngularJS
++ Typescript
++ Python
++ DOCKER
++ CI/CD
 
 I'm launching my own [ToDo app][myapp], **to face some challenges**.
 
