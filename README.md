@@ -24,7 +24,7 @@ I'm launching my own [ToDo app][myapp], **to face some challenges**.
 When you get a taste for flying, you just want to go higher and further, it's the same feeling when I'm studying.
 
 I value mutual benefit.
-Try to learn and teach.
+Trying to learn and teach.
 
 [more about me][aboutme]
 ---
