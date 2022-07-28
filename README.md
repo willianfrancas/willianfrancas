@@ -44,3 +44,9 @@ Trying to learn and teach.
 [rede]: <https://userede.com.br/>
 [instagram]: <https://instagram.com/musicxday>
 [aboutme]: <https://about.me/willianfrancas>
+
+
+
+<a href="https://app.daily.dev/willianfrancas">
+  <img src="https://github.com/willianfrancas/willianfrancas/blob/master/devcard.svg" width="400" alt="William F Silva's Dev Card"/>
+</a>
