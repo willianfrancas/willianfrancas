@@ -17,7 +17,7 @@ Developing with Angular, Typescript, Unit Tests with Jasmine, Automated Tests wi
   + DOCKER
   + CI/CD
 
-I'm launching my own [ToDo app][myapp], **to face some challenges**.
+<!-- I'm launching my own [ToDo app][myapp], **to face some challenges**. -->
 
 [...] I keep on constantly evolving, every day learning something new.
 
