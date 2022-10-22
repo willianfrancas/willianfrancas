@@ -6,7 +6,7 @@
 ---
 **willianfrancas** *here, learning something everyday*!
 
-I'm a System Analyst jr. at [Rede][rede], focused on front end.
+I'm a System Analyst at [Rede][rede], focused on front end.
 
 Developing with Angular, Typescript, Unit Tests with Jasmine, Automated Tests with Cypress.
 
